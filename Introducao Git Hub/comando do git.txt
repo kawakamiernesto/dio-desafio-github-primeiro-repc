@@ -2,6 +2,7 @@ Abrir o git bash (é um terminal estendido para otimizar o uso do Git)na pasta d
 Sintaxe=> git clone e depois colar o link
 Sintaxe=> git status mostra os arquivos ou pastas quer foram criados ou alterados.
 Sintaxe=> git add -A ou ponto
-git
+Sintaxe=> git commit -m "Inclusao dos comandos github"
+Sintaxe=> git push origin main (Envia todos os commits na nuvem)
 
 
